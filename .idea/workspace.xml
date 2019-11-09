@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="389d01ba-4de6-473e-93bc-9d474b1409cd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItem/NavigationItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItem/NavigationItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItems.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/Sidedrawer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/Sidedrawer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compnents/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/compnents/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,32 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Toolbar.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toolbar.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SideDrawer.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SideDrawer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -56,38 +32,11 @@
       <file leaf-file-name="Layout.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/compnents/Layout/Layout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="300">
+              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavigationItem.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItem/NavigationItem.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NavigationItems.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItems.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sidedrawer.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/Sidedrawer.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -136,15 +85,15 @@
         <option value="$PROJECT_DIR$/src/compnents/Layout/Layout.css" />
         <option value="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItem/NavigationItem.js" />
         <option value="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItems.js" />
-        <option value="$PROJECT_DIR$/src/compnents/Layout/Layout.js" />
         <option value="$PROJECT_DIR$/src/compnents/Logo/Logo.css" />
         <option value="$PROJECT_DIR$/src/compnents/Logo/Logo.js" />
-        <option value="$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.js" />
-        <option value="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js" />
         <option value="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItem/NavigationItem.css" />
         <option value="$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItems.css" />
         <option value="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/Sidedrawer.css" />
         <option value="$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.css" />
+        <option value="$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.js" />
+        <option value="$PROJECT_DIR$/src/compnents/Layout/Layout.js" />
+        <option value="$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js" />
       </list>
     </option>
   </component>
@@ -164,8 +113,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="726" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -316,7 +266,7 @@
       <workItem from="1573061350167" duration="136000" />
       <workItem from="1573104109731" duration="2285000" />
       <workItem from="1573189855753" duration="129000" />
-      <workItem from="1573236731827" duration="1515000" />
+      <workItem from="1573236731827" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1570903535469</created>
@@ -329,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55117000" />
+    <option name="totallyTimeSpent" value="56845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,7 +291,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -673,16 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/compnents/Logo/Logo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -700,16 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/compnents/Layout/Layout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/NavigationItems/NavigationItem/NavigationItem.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -724,16 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/Sidedrawer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -741,10 +661,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/Toolbar/Toolbar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compnents/Layout/Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compnents/Navigation/SideDrawer/SideDrawer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
